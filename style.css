@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+
+
+#header_div{
+background-color: chartreuse;
+
+}
+
+p{
+    font-style: italic;
+    font-weight: 100;
+    font-size: small;
+}
+button{
+font-weight: 100;
+font-style: italic;
+margin-top: 20px;
+width: 80px;
+}
+#copy_right_footer{
+    Position: fixed;
+    Bottom:0; 
+    Width: 100%;
+}
